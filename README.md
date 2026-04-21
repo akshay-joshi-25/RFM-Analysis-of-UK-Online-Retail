@@ -10,7 +10,7 @@ This project will cover the following:
 
 # 📂 **Datasets**
 The dataset used for this project was publicly made available by the University of California's Machine Learning Repositry. Due to confidentiality reasons, the name of the retail firm was not disclosed.
-- It contained 541,909 transactions made between December 1, 2010 and December 9, 2011.
+- It contained a total of 541,909 transactions (rows) made between December 1, 2010 and December 9, 2011.
 - Each transaction contained an Invoice Number, Product Name, Quantity, Transaction Date, Unit Price, Customer ID, and the Country from where the order was placed.
 
 You can access this dataset by clicking [here](https://archive.ics.uci.edu/dataset/352/online+retail)
