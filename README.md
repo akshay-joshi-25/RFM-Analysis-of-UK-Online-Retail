@@ -22,6 +22,8 @@ You can access this dataset by clicking [here](https://archive.ics.uci.edu/datas
 
 # 📈 **Exploratory Data Analysis**
 
+<img width="1135" height="513" alt="image" src="https://github.com/user-attachments/assets/f7d48ba2-0885-4520-ab13-b74ae164da6f" />
+
 **Overall Sales Trajectory**
 
 Sales grow steadily from a relatively modest base in December 2010 through to a dramatic peak in November 2011, before collapsing sharply in December 2011. The November peak is visually striking — it is clearly the highest bar by a significant margin, roughly double the typical monthly volume seen in the first half of the year. The December 2011 drop is equally dramatic, falling back to levels below even the quietest months of the year.
