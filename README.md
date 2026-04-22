@@ -95,3 +95,5 @@ Sitting at R=3, FM=1, these customers have mid-range recency but very low freque
 The distribution tells a broadly positive but cautionary story. The top-right concentration is encouraging — Champions and Loyal Customers together at 40% means the business has a strong core. However the bottom-left mass of Hibernating (18%) and About to Sleep (10%) customers means 28% of the base is disengaged or nearly lost. The strategic priority is clear: protect and reward the top-right, urgently intervene with About to Sleep before they slide further, and accept that Hibernating largely represents sunk cost requiring only minimal reactivation effort.
 
 The Can't Lose Them segment, though small at 4%, deserves attention disproportionate to its size given the historical value those customers represent.
+
+You can access the Python code used to perform the RFM Analysis by clicking [here.](https://github.com/akshay-joshi-25/RFM-Analysis-of-UK-Online-Retail/blob/main/RFM%20Analysis.ipynb)
