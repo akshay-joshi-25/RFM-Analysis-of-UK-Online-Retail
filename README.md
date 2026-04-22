@@ -22,8 +22,7 @@ You can access this dataset by clicking [here](https://archive.ics.uci.edu/datas
 
 # 📈 **Exploratory Data Analysis**
 
-<img width="1135" height="513" alt="image" src="https://github.com/user-attachments/assets/f7d48ba2-0885-4520-ab13-b74ae164da6f" />
-
+<img width="1135" height="513" alt="image" src="https://github.com/user-attachments/assets/72a03329-59f5-4ec8-b449-415cf39aabf9" />
 
 **Overall Sales Trajectory**
 
