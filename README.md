@@ -47,3 +47,6 @@ Stripping out the November/December distortion, the underlying pattern shows a m
 **Key Takeaways**
 
 The business is heavily domestically driven with international representing a structurally minor share. Revenue and customer volume broadly move together, with the notable early-2011 divergence suggesting average spend per customer was higher in that period. The November 2011 peak and December 2011 trough should not be interpreted as a boom-bust event — they are a direct consequence of the partial December data window. The more meaningful signal is the consistent upward growth trend from July through November, which suggests genuine underlying business momentum heading into the full Christmas trading period.
+
+# 🧠 **RFM Analysis**
+
