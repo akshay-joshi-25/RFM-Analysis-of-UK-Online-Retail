@@ -24,8 +24,6 @@ You can access this dataset by clicking [here](https://archive.ics.uci.edu/datas
 
 <img width="1135" height="513" alt="image" src="https://github.com/user-attachments/assets/26556742-00b0-48b2-93fe-b3509a411610" />
 
-## Retail Sales Breakdown by Market — Dec 2010 to Nov 2011
-
 **Sales trend**
 Revenue remains stagnant from December 2010 to August 2011, but accelerates meaningfully from September, culminating in a November 2011 peak of ~£1.45M — roughly double the quietest months (January–April 2011) and the strongest month in the entire dataset.
 
